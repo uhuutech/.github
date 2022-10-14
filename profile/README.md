@@ -1,4 +1,4 @@
-![Uhuu](bg.png)
+![Uhuu](https://github.com/uhuutech/.github/raw/main/profile/bg.png)
 
 # Uhuu Tech
 
